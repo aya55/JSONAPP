@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSON APP</string>
+    <string name="btn_showStudents">Show Students</string>
+</resources>
